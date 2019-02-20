@@ -1,0 +1,2 @@
+# StMichaelSchoolApp
+react-native
